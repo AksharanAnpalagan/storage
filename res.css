@@ -1,0 +1,62 @@
+h1{
+    
+    font-size: 50px;
+    color: white;
+    margin: 100px;
+    padding: 0;
+
+
+    
+}
+.res{
+    background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+p{
+    padding-bottom: 300px;
+}
+
+
+button{
+    width: 200px;
+     border-radius:20px ;
+     margin: 20px 1000px;
+     padding: 15px;
+     background-color: transparent;
+     font-size: 25px;
+     font-weight: bold;
+
+
+}
+
+nav{
+    background-image: url("https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?cs=srgb&dl=pexels-chan-walrus-941861.jpg&fm=jpg");
+    height: 100px;
+}
+
+li{
+    display: inline;
+    padding: 100px;
+    margin-bottom:50px;
+    
+
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+
+
